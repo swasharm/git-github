@@ -1,2 +1,2 @@
 # git-github
-This is general
+This is general one
